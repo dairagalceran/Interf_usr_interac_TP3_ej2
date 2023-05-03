@@ -1,0 +1,13 @@
+body{
+  margin: 0 auto;
+  width: 800px;
+  padding: 40px
+}
+
+#container{
+  width: 100%;
+  display: grid;
+  place-content: center;
+  padding-top: 100px;
+}
+
